@@ -1,0 +1,131 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "title": "Batates",
+      "description": "Batates Ketchup Mayo",
+      "dine_in": true,
+      "pickable": true,
+      "has_varaiations": true,
+      "categories": [
+        1,
+        2,
+        5
+      ],
+      "add_ons": [
+        1,
+        2
+      ],
+      "attributes": [
+        {
+          "name": "Size",
+          "values": [
+            "S",
+            "M",
+            "L"
+          ]
+        },
+        {
+          "name": "Color",
+          "values": [
+            "Red",
+            "Blue",
+            "Yellow"
+          ]
+        }
+      ],
+      "variations": [
+        {
+          "cost": 12.5,
+          "regular_price": 20,
+          "sale_price": 10,
+          "sku": "132123e3213e21",
+          "barcode": "barcode132123e3213e21",
+          "variation_string": "S-Red",
+          "stock": [
+            {
+              "branch_id": 1,
+              "branch_name": "branch_1",
+              "quantitiy": 50
+            },
+            {
+              "branch_id": 1,
+              "branch_name": "branch_2",
+              "quantitiy": 100
+            }
+          ]
+        },
+        {
+          "cost": 12.5,
+          "regular_price": 20,
+          "sale_price": 10,
+          "sku": "132123e3213e21",
+          "barcode": "barcode132123e3213e21",
+          "variation_string": "M-Red",
+          "stock": [
+            {
+              "branch_id": 1,
+              "branch_name": "branch_1",
+              "quantitiy": 50
+            },
+            {
+              "branch_id": 1,
+              "branch_name": "branch_2",
+              "quantitiy": 100
+            }
+          ]
+        },
+        {
+          "cost": 12.5,
+          "regular_price": 20,
+          "sale_price": 10,
+          "sku": "132123e3213e21",
+          "barcode": "barcode132123e3213e21",
+          "variation_string": "S-Blue",
+          "stcock": [
+            {
+              "branch_id": 1,
+              "quantitiy": 50
+            },
+            {
+              "branch_id": 1,
+              "quantitiy": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "0": {
+        "option": "Test 10",
+        "value": "Test 10",
+        "title": "Test 10Test 10",
+        "desc": "Test 10Test 10",
+        "categoryAndSub": [
+          10,
+          20
+        ],
+        "addons": [
+          "Extra cheese with salmone 2",
+          "Extra cheese with salmone 3"
+        ],
+        "price": "Test 10Test 10",
+        "salePrice": "Test 10Test 10Test 10",
+        "cost": "Test 10Test 10Test 10Test 10"
+      },
+      "cost": "Test 10Test 10",
+      "price": "Test 10Test 10",
+      "salePrice": "Test 10Test 10",
+      "sku": "Test 10",
+      "variationString": "yellow_xlarge",
+      "stock": [
+        "Test 10Test 10",
+        "Test 10Test 10",
+        "Test 10Test 10",
+        "Test 10Test 10",
+        "Test 10Test 10"
+      ],
+      "id": "3oi-yiL"
+    }
+  ]
+}
